@@ -18,8 +18,13 @@ The adder have 2 input pins and 2 output pins:
 
 # Gallery
 ***AND gate:***
+
 ![AND](https://github.com/TXWD1234/FalloutBadge/raw/main/docs/readme-assets/AND.png)
+
 ***XOR gate:***
+
 ![XOR](https://github.com/TXWD1234/FalloutBadge/raw/main/docs/readme-assets/XOR.png)
+
 ***ADD circuit:***
+
 ![ADD](https://github.com/TXWD1234/FalloutBadge/raw/main/docs/readme-assets/ADD.png)
